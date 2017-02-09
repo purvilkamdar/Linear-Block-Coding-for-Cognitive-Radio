@@ -1,4 +1,4 @@
-# Linear Block Coding for Cognitive-Radio
+# Linear Block Coding Module for a Cognitive Radio
 - Checks the incoming data on a wirless/wired RF module for error
 - Sends a Linear Block Coded data while transmitting
 - Goes through various phases like linear Invariant Synchronous Algorithm for synronization between transmitter and receiver
